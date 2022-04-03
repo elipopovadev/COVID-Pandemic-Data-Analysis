@@ -256,7 +256,7 @@ ORDER BY [Total deaths] DESC
 CREATE OR ALTER VIEW [People fully vaccinated per Continent]
 AS
 SELECT continent,
-[People fully vaccinated] = sum(people_fully_vaccinated)
+[People fully vaccinated] = SUM(people_fully_vaccinated)
 FROM Covid19
 WHERE date = '2022-03-31' and continent IS NOT NULL
 GROUP BY continent
