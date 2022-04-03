@@ -71,7 +71,7 @@ ORDER BY percent_of_total_deaths DESC
 GO
 
 
--- 5.Which are the top 5 locations with the least new cases of Covid19 on date '2022-03-31'
+-- 5.Which are the top 5 locations with the least new cases of Covid-19 on date '2022-03-31'
 -- The Result is:
 -- Micronesia(country) - 1
 -- Saint Helena - 4
@@ -94,7 +94,7 @@ DROP TABLE #Total_Cases_per_Location
 GO
 
 
--- 6.Which are the top 5 locations with the most deaths of Covid19 until date '2022-03-31'
+-- 6.Which are the top 5 locations with the most deaths of Covid-19 until date '2022-03-31'
 -- The Result is:
 -- World - 6 143 147
 -- Upper middle income - 2 488 891
@@ -117,7 +117,7 @@ DROP TABLE #Total_Deaths_per_Location
 GO
 
 
--- 7.Which are the locations with zero deaths of Covid19 until date '2022-03-31'
+-- 7.Which are the locations with zero deaths of Covid-19 until date '2022-03-31'
 -- The Result is:
 -- Samoa - NULL
 -- Vatican - NULL
