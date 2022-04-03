@@ -245,4 +245,6 @@ WHERE date = '2022-03-31'
 
 SELECT * 
 FROM [People fully vaccinated per Location]
+GO
+
 
