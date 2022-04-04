@@ -13,4 +13,4 @@ People fully vaccinated per Continent
 Total cases and Total deaths per Continent
 ![Screenshot 2022-04-04 at 01-29-55 Covid Pandemic](https://user-images.githubusercontent.com/75258625/161451554-ed177097-d780-47db-801f-b2541d04a549.png)
 
-Resources from https://ourworldindata.org/coronavirus 
+Resources from https://public.tableau.com/app/profile/elena.popova/viz/CovidPandemic_16490245231460/CovidPandemic and https://ourworldindata.org/coronavirus 
