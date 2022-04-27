@@ -1,6 +1,6 @@
 # Covid Pandemic Data Analysis
 <br/>
-<br/>
+
 
 ## Hospitalized patients per Continent
 <br/>
