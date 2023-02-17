@@ -1,4 +1,4 @@
-# Covid Pandemic Data Analysis
+# COVID Pandemic Data Analysis
 <br/>
 
 
